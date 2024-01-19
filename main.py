@@ -2,14 +2,6 @@ import flet as ft
 import time
 
 def main(page: ft.Page):
- 
-    page.bgcolor = ft.colors.GREY_100
-    page.window_height ='500'
-    page.window_width= '700'
-    page.window_max_height= '500'
-    page.window_max_width = '700'
-    page.update()
-    global1 = ft.Text()
 
 
 
